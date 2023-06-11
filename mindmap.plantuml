@@ -36,17 +36,17 @@ mindmapDiagram
 *****_ [[https://cycling74.com/products/max Max]] <<link>>
 *****_ [[https://www.bespokesynth.com/ Bespoke]] <<link>>
 *****_ [[https://www.iannix.org/en/whatisiannix/ Iannix]] <<link>>
-****_ Computer assisted composition
+****_ Generative music
 *****_ [[https://opusmodus.com/ OpusModus]] <<link>>
-*****_ [[htts://teropa.info/loop Generative music]] <<link>>
-*****_ MIDI
-*****_ MusicXML
+*****_ MIDI generators
+****_ Esoteric
+*****_ [[https://dollchan.net/bytebeat/ Bytebeat]] <<link>>
+*****_ [[https://hundredrabbits.itch.io/orca Orca]] <<link>>
 
 ***_ Sound synthesis
 ****_ [[https://csound.com/ Csound]] <<link>>
 ****_ [[https://faust.grame.fr/ Faust]] <<link>>
 ****_ [[https://supercollider.github.io/ SuperCollider]] <<link>>
-
 
 **_ Graphics
 ***_ Sketching
@@ -66,6 +66,7 @@ mindmapDiagram
 ****_ [[https://aframe.io/ A-Frame]] <<link>>
 ****_ [[https://playground.babylonjs.com/ Babylonjs]] <<link>>
 ***_ AI
+****_ [[https://magenta.tensorflow.org/demos Magneta]] <<link>>
 ****_ [[https://huggingface.co/spaces/ Huggingface spaces]] <<link>>
 ****_ [[https://github.com/amrzv/awesome-colab-notebooks Colab notebooks]] <<link>>
 
@@ -90,6 +91,10 @@ mindmapDiagram
 ****_ Interactive fiction
 ****_ Visual novels
 ***_ Rhythm games
+***_ Generative content
+****_ Landscape
+****_ Monsters
+****_ Quests
 ***_ Graphic adventures
 ****_ 2D
 ****_ 3D
@@ -120,7 +125,13 @@ mindmapDiagram
 
 ---_ Performative
 ----_ Digital arts
+-----_ Installation artworks
+-----_ Interactive art
+-----_ Dance choreography
 ----_ [[https://github.com/toplap/awesome-livecoding Live coding]] <<link>>
+-----_ Human interaction
+-----_ Music
+-----_ Visualization
 
 ---_ Competitive
 ----_ [[https://github.com/psykon/awesome-demoscene Demoscene]] <<link>>
@@ -146,9 +157,9 @@ mindmapDiagram
 ---_ Computer
 ----_ Keyboard
 ----_ Mouse
-----_ Touch
 ----_ USB
-----_ Mobile
+---_ Mobile
+----_ Touch
 ---_ Console
 ----_ Wiimote
 ----_ Kinect
@@ -161,6 +172,12 @@ mindmapDiagram
 ----_ MIDI
 ----_ OSC
 ----_ DMX
+---_ Output
+----_ Screens
+----_ Oscilloscope
+----_ Projectors
+----_ Lightshow
+----_ Drone fireworks
 ---_ DIY
 
 --_ Algorithms
