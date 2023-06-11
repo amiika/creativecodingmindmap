@@ -2,24 +2,46 @@
 <style>
 mindmapDiagram 
 {
+  node {
+    Margin 25
+    Padding 15
+    LineThickness 0.5
+    FontName Consolas
+  }
+  node {
+    :depth(0) {
+      FontSize 20
+    }
+    :depth(1) {
+      FontSize 18
+    }
+  }
+  boxless {
+    Margin 15
+    FontColor Black
+  }
+  arrow {
+    Maring 100
+    LineStyle 0
+    LineThickness 1.0
+    LineColor Black
+  }
   .center {
-    HyperlinkColor Black
+    HyperlinkColor RoyalBlue
     BackgroundColor lightblue
     HyperlinkUnderlineThickness 0
     HyperlinkUnderline false
   }
   .link {
-    HyperlinkColor LightSeaGreen
+    Padding 15
+    HyperlinkColor RoyalBlue
     HyperlinkUnderlineThickness 0
     HyperlinkUnderline false
-  }
-  .blue {
-    LineColor lightblue
   }
 }
 </style>
 
-* [[https://github.com/terkelg/awesome-creative-coding Creative coding]] <<center>>
+* [[https://github.com/terkelg/awesome-creative-coding #creativecoding]] <<center>>
 
 **_ Audio
 ***_ [[https://sonification.design/ Sonification]] <<link>>
@@ -101,7 +123,7 @@ mindmapDiagram
 
 **_ Programming programming
 ***_ [[https://eloquentjavascript.net/12_language.html New languages]] <<link>>
-***_ [[http://craftinginterpreters.com/ Crafting interpreters (BOOK)]] <<link>>
+***_ [[http://craftinginterpreters.com/ Crafting interpreters]] <<link>>
 ***_ Metaprogramming
 ***_ Monkeypatching
 ***_ [[https://esolangs.org/wiki/Main_Page Esolangs]] <<link>>
@@ -150,6 +172,7 @@ mindmapDiagram
 -----_ [[https://www.hackjunction.com/ Junction]] <<link>>
 
 ---_ Educative
+----_ [[https://hacklab.fi/index_en.html Hacklabs]] <<link>>
 ----_ [[https://scratch.mit.edu/ Scratch]] <<link>>
 ----_ [[https://code.org/ Code.org]] <<link>>
 
