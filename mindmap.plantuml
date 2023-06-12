@@ -41,6 +41,8 @@ mindmapDiagram
 }
 </style>
 
+skinparam svgLinkTarget _blank
+
 * [[https://github.com/terkelg/awesome-creative-coding #creativecoding]] <<center>>
 
 **_ Audio
@@ -114,8 +116,8 @@ mindmapDiagram
 
 **_ Games
 ***_ Text adventures
-****_ [[https://github.com/tajmone/awesome-interactive-fiction Interactive fiction]]
-****_ [[https://www.renpy.org/ Visual novels]]
+****_ [[https://github.com/tajmone/awesome-interactive-fiction Interactive fiction]] <<link>>
+****_ [[https://www.renpy.org/ Visual novels]] <<link>>
 ****_ [[https://adelfaure.net/games/ ASCII games]] <<link>>
 
 ***_ Generative content
@@ -124,12 +126,12 @@ mindmapDiagram
 ****_ Quests
 ***_ Graphic adventures
 ****_ 2D graphics
-*****_ [[https://gamemaker.io/en GameMaker]]
-*****_ [[https://github.com/topics/point-and-click Point and Click]]
+*****_ [[https://gamemaker.io/en GameMaker]] <<link>>
+*****_ [[https://github.com/topics/point-and-click Point and Click]] <<link>>
 ****_ 3D graphics
-*****_ [[https://unity.com/ Unity]]
-*****_ [[https://www.unrealengine.com/en-US Unreal]]
-***_ [[https://github.com/topics/rhythm-game Rhythm games]]
+*****_ [[https://unity.com/ Unity]] <<link>>
+*****_ [[https://www.unrealengine.com/en-US Unreal]] <<link>>
+***_ [[https://github.com/topics/rhythm-game Rhythm games]] <<link>>
 
 **_ Programming programming
 ***_ [[https://eloquentjavascript.net/12_language.html New languages]] <<link>>
@@ -139,26 +141,32 @@ mindmapDiagram
 ***_ [[https://esolangs.org/wiki/Main_Page Esolangs]] <<link>>
 
 **_ Physical
-***_ [[https://xyzdims.com/2023/02/09/3d-printing-parametric-generative-3d-infill-geometries/ 3D printing]] <<link>>
-***_ Architecture
+***_ [[https://github.com/topics/generative-design Generative design]] <<link>>
+****_ [[https://xyzdims.com/2023/02/09/3d-printing-parametric-generative-3d-infill-geometries/ 3D printing]] <<link>>
+****_ [[https://dynamobim.org/ Architecture]] <<link>>
 ***_ Electronics
 ****_ Kits
 *****_ Arduino
 *****_ Teensy
 *****_ Raspberry Pi Zero
-****_ Modular synths
-****_ Robotics
-****_ Wearables
-*****_ Sewable electronics
+****_ [[https://github.com/topics/modular-synthesizers Modular synths]] <<link>>
+****_ [[https://github.com/topics/robotics Robotics]] <<link>>
+****_ [[https://github.com/topics/wearables Wearables]] <<link>>
+*****_ [[https://learn.adafruit.com/lets-put-leds-in-things/sewable-circuits Sewable electronics]] <<link>>
 *****_ Electronic jewelry
 *****_ Cosplay
+****_ Musical instruments
+*****_ [[https://www.makermusicfestival.com/ Maker music festival]] <<link>>
+*****_ [[https://instrumentinventors.org/ Instrument inventors]] <<link>>
+****_ [[https://en.wikipedia.org/wiki/Drone_art Drone art]] <<link>>
+*****_ [[https://crazyswarm.readthedocs.io/en/latest/ Crazyswarm]] <<link>>
+*****_ [[https://skybrush.io/ Skybrush]] <<link>>
 
 --_ Scenes
 
 ---_ Performative
 ----_ Digital arts
------_ Installation artworks
------_ Interactive art
+-----_ [[https://www.trendhunter.com/slideshow/interactive-art-installations Interactive art]] <<link>>
 -----_ Dance choreography
 ----_ [[https://github.com/toplap/awesome-livecoding Live coding]] <<link>>
 -----_ Human interaction
@@ -182,9 +190,14 @@ mindmapDiagram
 -----_ [[https://www.hackjunction.com/ Junction]] <<link>>
 
 ---_ Educative
-----_ [[https://hacklab.fi/index_en.html Hacklabs]] <<link>>
-----_ [[https://scratch.mit.edu/ Scratch]] <<link>>
-----_ [[https://code.org/ Code.org]] <<link>>
+----_ Community workspaces
+-----_ [[https://hacklab.fi/index_en.html Hacklabs]] <<link>>
+-----_ [[https://directory.libraries.fi/services/room/pajamakerspace Makerspaces]] <<link>>
+----_ Online learning communities
+-----_ [[https://scratch.mit.edu/ Scratch]] <<link>>
+-----_ [[https://code.org/ Code.org]] <<link>>
+-----_ [[https://forums.adafruit.com/ Adafruit]] <<link>>
+-----_ [[https://forum.arduino.cc/ Arduino]] <<link>>
 
 --_ Hardware
 ---_ Computer
@@ -198,7 +211,7 @@ mindmapDiagram
 ----_ Kinect
 ----_ PS Eye
 ---_ Goggles
-----_ VR
+----_ VR 
 ----_ AR
 ----_ Smart
 ---_ AV controllers
@@ -208,9 +221,9 @@ mindmapDiagram
 ---_ Output
 ----_ Screens
 ----_ Oscilloscope
-----_ Projectors
-----_ Lightshow
-----_ Drone fireworks
+----_ [[https://github.com/codingjoe/MusicBeam Projectors]] <<link>>
+----_ [[https://github.com/topics/lightshow Lightshow]] <<link>>
+----_ [[https://github.com/topics/drone Drones]] <<link>>
 ---_ DIY
 
 --_ Algorithms
