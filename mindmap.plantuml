@@ -104,7 +104,11 @@ mindmapDiagram
 
 **_ Text
 ***_ [[https://timrodenbroeker.de/processing-tutorial-kinetic-typography-1 Kinetic typography]] <<link>>
-***_ [[https://play.ertdfgcvb.xyz/ ASCII art]] <<link>>
+***_ [[https://github.com/khrome/ascii-art-docs/blob/master/History.md ASCII art]] <<link>>
+****_ [[https://adelfaure.net OSCII editor]] <<link>>
+****_ [[https://play.ertdfgcvb.xyz/ ASCII play]] <<link>>
+****_ [[https://github.com/JuliaPoo/AsciiArtist Ascii generator]] <<link>>
+****_ [[https://github.com/nurpax/petmate PETSCII]] <<link>>
 ***_ [[https://github.com/coreybobco/generativepoetry-py Poetry]] <<link>>
 ***_ [[https://nanogenmo.github.io/ Stories]] <<link>>
 
@@ -112,7 +116,8 @@ mindmapDiagram
 ***_ Text adventures
 ****_ Interactive fiction
 ****_ Visual novels
-***_ Rhythm games
+****_ [[https://adelfaure.net/ ASCII games]] <<link>>
+
 ***_ Generative content
 ****_ Landscape
 ****_ Monsters
@@ -120,6 +125,7 @@ mindmapDiagram
 ***_ Graphic adventures
 ****_ 2D
 ****_ 3D
+***_ Rhythm games
 
 **_ Programming programming
 ***_ [[https://eloquentjavascript.net/12_language.html New languages]] <<link>>
