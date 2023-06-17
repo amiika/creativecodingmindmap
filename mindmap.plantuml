@@ -166,8 +166,21 @@ skinparam svgLinkTarget _blank
 
 ---_ Performative
 ----_ Digital arts
------_ [[https://www.trendhunter.com/slideshow/interactive-art-installations Interactive art]] <<link>>
------_ Dance choreography
+-----_ [[https://www.trendhunter.com/slideshow/interactive-art-installations Interactive]] <<link>>
+------_ Spaces
+------_ Installations
+-----_ Augmented
+------_ Graffiti
+------_ Paintings
+-----_ Entangled
+------_ Choreography
+------_ Holograms
+
+----_ VJ culture
+-----_ Music videos
+-----_ Gigs
+
+
 ----_ [[https://github.com/toplap/awesome-livecoding Live coding]] <<link>>
 -----_ Human interaction
 -----_ Music
@@ -180,7 +193,6 @@ skinparam svgLinkTarget _blank
 -----_ [[https://assembly.org/en Assembly]] <<link>>
 ----_ [[https://github.com/lnishan/awesome-competitive-programming Sports]] <<link>>
 -----_ [[https://robocode.sourceforge.io/ Robocode]] <<link>>
------_ [[https://codeforces.com/ Codeforces]] <<link>>
 -----_ [[https://codegolf.stackexchange.com/ Code golfing]] <<link>>
 -----_ [[https://www.fmworldcup.com/ Excel championship]] <<link>>
 ----_ [[https://hackathon.guide/ Hackathons]] <<link>>
@@ -189,31 +201,23 @@ skinparam svgLinkTarget _blank
 -----_ [[https://ultrahack.org/ Ultrahack]] <<link>>
 -----_ [[https://www.hackjunction.com/ Junction]] <<link>>
 
----_ Educative
+---_ Crafting
 ----_ Community workspaces
 -----_ [[https://hacklab.fi/index_en.html Hacklabs]] <<link>>
 -----_ [[https://directory.libraries.fi/services/room/pajamakerspace Makerspaces]] <<link>>
 ----_ Online learning communities
------_ [[https://scratch.mit.edu/ Scratch]] <<link>>
------_ [[https://code.org/ Code.org]] <<link>>
 -----_ [[https://forums.adafruit.com/ Adafruit]] <<link>>
 -----_ [[https://forum.arduino.cc/ Arduino]] <<link>>
 
 --_ Hardware
----_ Computer
-----_ Keyboard
-----_ Mouse
-----_ USB
----_ Mobile
-----_ Touch
+---_ Keyboard
+---_ Mouse
+---_ Touch
 ---_ Console
 ----_ Wiimote
 ----_ Kinect
 ----_ PS Eye
----_ Goggles
-----_ VR 
-----_ AR
-----_ Smart
+---_ VR / AR glasses
 ---_ AV controllers
 ----_ MIDI
 ----_ OSC
@@ -224,7 +228,6 @@ skinparam svgLinkTarget _blank
 ----_ [[https://github.com/codingjoe/MusicBeam Projectors]] <<link>>
 ----_ [[https://github.com/topics/lightshow Lightshow]] <<link>>
 ----_ [[https://github.com/topics/drone Drones]] <<link>>
----_ DIY
 
 --_ Algorithms
 ---_ Random
@@ -237,7 +240,7 @@ skinparam svgLinkTarget _blank
 -----_ Fractal algorithms
 -----_ Cellular automata
 -----_ L-system
-----_ [[https://theresanaiforthat.com/ AI patterns]] <<link>>
+----_ [[https://theresanaiforthat.com/ AI]] <<link>>
 -----_ Markov chains
 -----_ NLP
 -----_ Statistical
@@ -251,7 +254,6 @@ skinparam svgLinkTarget _blank
 ----_ Economy
 -----_ Statistics
 -----_ Expences
------_ Currency
 -----_ [[https://www.bitlisten.com/ Bitcoin]] <<link>>
 ----_ Temporal
 -----_ Chess
