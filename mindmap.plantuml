@@ -49,12 +49,17 @@ skinparam svgLinkTarget _blank
 ***_ [[https://sonification.design/ Sonification]] <<link>>
 ***_ Noise
 ***_ Music
-****_ Live coding
+****_ [[https://livecodingbook.toplap.org Live coding]] <<link>>
+*****_ [[https://topos.live Topos]] <<link>>
 *****_ [[https://tidalcycles.org/ Tidal cycles]] <<link>>
 *****_ [[https://strudel.tidalcycles.org/ Strudel]] <<link>>
 *****_ [[https://sonic-pi.net/ Sonic Pi]] <<link>>
 *****_ [[https://sardine.raphaelforment.fr/ Sardine]] <<link>>
 *****_ [[https://supercollider.github.io/ SuperCollider]] <<link>>
+*****_ Scales
+******_ [[https://www.huygens-fokker.org/scala/ Scala]] <<link>>
+******_ [[https://en.xen.wiki/w/Main_Page Xenharmonics]] <<link>>
+******_ [[https://scaleworkshop.plainsound.org Scale workshop]] <<link>>
 ****_ Visual programming
 *****_ [[https://puredata.info/ Pure Data]] <<link>>
 *****_ [[https://cycling74.com/products/max Max]] <<link>>
@@ -79,6 +84,7 @@ skinparam svgLinkTarget _blank
 ***_ Live coding
 ****_ [[https://teddavis.org/p5live P5Live]] <<link>>
 ****_ [[https://hydra.ojack.xyz/ Hydra]] <<link>>
+****_ [[https://livecodingyoutube.github.io Livecodingyoutube]] <<link>>
 ***_ [[https://thebookofshaders.com/{What are shaders?} Shaders]] <<link>>
 ****_ [[https://www.shadertoy.com/ Shadertoy]] <<link>>
 ****_ [[https://shadered.org/ Shadered]] <<link>>
@@ -121,9 +127,9 @@ skinparam svgLinkTarget _blank
 ****_ [[https://adelfaure.net/games/ ASCII games]] <<link>>
 
 ***_ Generative content
-****_ Landscape
-****_ Monsters
-****_ Quests
+****_ [[https://urn.fi/URN:NBN:fi:tuni-202304234159 Terrain]] <<link>>
+****_ [[https://www.kylehuang.design/monstergan Monsters]] <<link>>
+****_ [[https://github.com/gknappattack/DRAGN-Town-Quests Quests]] <<link>>
 ***_ Graphic adventures
 ****_ 2D graphics
 *****_ [[https://gamemaker.io/en GameMaker]] <<link>>
@@ -134,11 +140,18 @@ skinparam svgLinkTarget _blank
 ***_ [[https://github.com/topics/rhythm-game Rhythm games]] <<link>>
 
 **_ Programming
-***_ [[https://eloquentjavascript.net/12_language.html New languages]] <<link>>
-***_ Creative coding tools
-***_ Metaprogramming
-***_ Monkeypatching
 ***_ [[https://esolangs.org/wiki/Main_Page Esolangs]] <<link>>
+****_ [[https://esolangs.org/wiki/MUSYS Musys]] <<link>>
+****_ [[https://www.uiua.org Uiua]] <<link>>
+***_ Parsing
+****_ Parser grammars (PEGs)
+****_ Recursive descent parsing
+***_ [[https://eloquentjavascript.net/12_language.html New languages]] <<link>>
+****_ Generic
+****_ Time critical
+*****_ Ziffers
+*****_ TidalCycles
+***_ Monkeypatching
 
 **_ Physical
 ***_ [[https://github.com/topics/generative-design Generative design]] <<link>>
@@ -167,6 +180,7 @@ skinparam svgLinkTarget _blank
 ---_ Performative
 ----_ Digital arts
 -----_ [[https://www.trendhunter.com/slideshow/interactive-art-installations Interactive]] <<link>>
+------_ Digital Art Museums
 ------_ Spaces
 ------_ Installations
 -----_ Augmented
@@ -222,6 +236,12 @@ skinparam svgLinkTarget _blank
 ----_ MIDI
 ----_ OSC
 ----_ DMX
+---_ Microcontrollers
+----_ Single-board computers
+-----_ Raspberry Pi
+----_ Development boards
+-----_ Cardputer (M5Stack)
+----_ IoT kits
 ---_ Output
 ----_ Screens
 ----_ Oscilloscope
@@ -229,21 +249,45 @@ skinparam svgLinkTarget _blank
 ----_ [[https://github.com/topics/lightshow Lightshow]] <<link>>
 ----_ [[https://github.com/topics/drone Drones]] <<link>>
 
---_ Algorithms
----_ Random
----_ Noise
----_ Algorithmic patterns
-----_ Mathematical models
-----_ Grammars
+--_ Theory
+---_ Music theory
+----_ [[https://viva.pressbooks.pub/openmusictheory/part/20th-and-21st-century-techniques/ Post-tonal techniques]] <<link>>
+----_ [[https://viva.pressbooks.pub/openmusictheory/chapter/intervals-in-integer-notation/ Integer notation]] <<link>>
+----_ [[https://musictheory.pugetsound.edu/mt21c/Serialism.html Serialism]] <<link>>
+----_ [[https://musictheory.pugetsound.edu/mt21c/Minimalism.html Minimalism]] <<link>>
+----_ [[https://en.wikipedia.org/wiki/Generative_music Generative music]] <<link>>
+----_ [[https://atchai.com/blog/2016-02-09-john-coltrane-nicolas-slonimsky-and-the-arduino-part-1/ Slonimsky patterns]] <<link>>
+----_ [[https://en.wikipedia.org/wiki/Schillinger_system Schillinger system]] <<link>>
+----_ [[https://en.wikipedia.org/wiki/Tintinnabuli Tintinnabuli]] <<link>>
+----_ [[http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf Euclidean rhythm]] <<link>>
+---_ Algorithmic
+----_ Random
+----_ Noise
+----_ [[https://en.m.wikipedia.org/wiki/A*_search_algorithm Pathfinding]] <<link>>
+----_ Linear algebra
+----_ [[https://oeis.org Integer sequences]] <<link>>
 ----_ Raymarching
+----_ Grammars
+----_ Chaos theory
+-----_ Fractals
+-----_ Feedback loops
+-----_ Pendulums
+-----_ Self-similarity
 ----_ Rewriting systems
------_ Fractal algorithms
 -----_ Cellular automata
 -----_ L-system
 ----_ [[https://theresanaiforthat.com/ AI]] <<link>>
------_ Markov chains
------_ NLP
------_ Statistical
+-----_ Classic
+------_ Markov chains
+------_ Monte-Carlo methods
+-----_ Modern
+------_ Machine learning
+------_ Multimodal LLMs
+-----_ Issues
+------_ Originality
+------_ Emotions
+------_ Dehumanization
+------_ Ethics
 
 --_ Data
 ---_ Structured
@@ -253,7 +297,6 @@ skinparam svgLinkTarget _blank
 -----_ [[https://en.wikipedia.org/wiki/Protein_music DNA]] <<link>>
 ----_ Economy
 -----_ Statistics
------_ Expences
 -----_ [[https://www.bitlisten.com/ Bitcoin]] <<link>>
 ----_ Temporal
 -----_ Chess
@@ -261,7 +304,6 @@ skinparam svgLinkTarget _blank
 -----_ Github
 ----_ Spatial
 -----_ Animal migration
------_ GIS
 ---_ Unstructured
 ----_ Books
 ----_ Images
