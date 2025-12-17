@@ -99,6 +99,7 @@ skinparam svgLinkTarget _blank
 ****_ [[https://magenta.tensorflow.org/demos Magneta]] <<link>>
 ****_ [[https://huggingface.co/spaces/ Huggingface spaces]] <<link>>
 ****_ [[https://github.com/amrzv/awesome-colab-notebooks Colab notebooks]] <<link>>
+****_ [[https://github.com/comfyanonymous/ComfyUI Comfy UI]] <<link>>
 
 ***_  Data visualization
 ****_ Infographics
@@ -189,6 +190,7 @@ skinparam svgLinkTarget _blank
 -----_ Entangled
 ------_ Choreography
 ------_ Holograms
+------_ Telematic
 
 ----_ VJ culture
 -----_ Music videos
@@ -199,6 +201,7 @@ skinparam svgLinkTarget _blank
 -----_ Human interaction
 -----_ Music
 -----_ Visualization
+
 
 ---_ Competitive
 ----_ [[https://github.com/psykon/awesome-demoscene Demoscene]] <<link>>
@@ -222,6 +225,82 @@ skinparam svgLinkTarget _blank
 ----_ Online learning communities
 -----_ [[https://forums.adafruit.com/ Adafruit]] <<link>>
 -----_ [[https://forum.arduino.cc/ Arduino]] <<link>>
+
+
+---_ Hacking
+----_ [[https://monoskop.org/Hacker_culture Hacker Culture]] <<link>>
+----_ Hacktivism
+----_ Digital sovereignty
+-----_ Open source
+-----_ Local-first
+-----_ Anti-Cencorship
+-----_ Cracking
+-----_ Reverse engineering
+-----_ Hardware hacking
+----_ Fun geeky stuff
+----_ Neckbeard stuff
+----_ Hacking Arts
+
+
+
+
+--_ Theory
+---_ Music theory
+----_ [[https://viva.pressbooks.pub/openmusictheory/part/20th-and-21st-century-techniques/ Post-tonal techniques]] <<link>>
+----_ [[https://viva.pressbooks.pub/openmusictheory/chapter/intervals-in-integer-notation/ Integer notation]] <<link>>
+----_ [[https://musictheory.pugetsound.edu/mt21c/Serialism.html Serialism]] <<link>>
+----_ [[https://musictheory.pugetsound.edu/mt21c/Minimalism.html Minimalism]] <<link>>
+----_ [[https://en.wikipedia.org/wiki/Generative_music Generative music]] <<link>>
+----_ [[https://atchai.com/blog/2016-02-09-john-coltrane-nicolas-slonimsky-and-the-arduino-part-1/ Slonimsky patterns]] <<link>>
+----_ [[https://en.wikipedia.org/wiki/Schillinger_system Schillinger system]] <<link>>
+----_ [[https://en.wikipedia.org/wiki/Tintinnabuli Tintinnabuli]] <<link>>
+----_ [[http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf Euclidean rhythm]] <<link>>
+
+
+---_ Physics
+---_ Electronics
+---_ Aesthetics
+---_ Cognitive
+---_ Pedagogy
+
+
+---_ Algorithmic
+----_ Chaos theory
+-----_ Fractals
+-----_ Feedback loops
+-----_ Pendulums
+-----_ Self-similarity
+----_ Randomness
+----_ Noise
+----_ [[https://en.m.wikipedia.org/wiki/A*_search_algorithm Pathfinding]] <<link>>
+----_ Raymarching
+----_ Grammars
+----_ Rewriting systems
+-----_ Cellular automata
+-----_ L-system
+----_ [[https://theresanaiforthat.com/ AI]] <<link>>
+-----_ Classic
+------_ Markov chains
+------_ Monte-Carlo methods
+-----_ Modern
+------_ Machine learning
+------_ Multimodal LLMs
+-----_ Issues
+------_ Originality
+------_ Emotions
+------_ Dehumanization
+------_ Ethics
+
+
+---_ Math
+----_ Trigonometry
+----_ Linear algebra
+----_ [[https://oeis.org Integer sequences]] <<link>>
+----_ Set theory
+----_ Graph theory
+----_ Game theory
+----_ Propability
+
 
 --_ Hardware
 ---_ Keyboard
@@ -248,46 +327,6 @@ skinparam svgLinkTarget _blank
 ----_ [[https://github.com/codingjoe/MusicBeam Projectors]] <<link>>
 ----_ [[https://github.com/topics/lightshow Lightshow]] <<link>>
 ----_ [[https://github.com/topics/drone Drones]] <<link>>
-
---_ Theory
----_ Music theory
-----_ [[https://viva.pressbooks.pub/openmusictheory/part/20th-and-21st-century-techniques/ Post-tonal techniques]] <<link>>
-----_ [[https://viva.pressbooks.pub/openmusictheory/chapter/intervals-in-integer-notation/ Integer notation]] <<link>>
-----_ [[https://musictheory.pugetsound.edu/mt21c/Serialism.html Serialism]] <<link>>
-----_ [[https://musictheory.pugetsound.edu/mt21c/Minimalism.html Minimalism]] <<link>>
-----_ [[https://en.wikipedia.org/wiki/Generative_music Generative music]] <<link>>
-----_ [[https://atchai.com/blog/2016-02-09-john-coltrane-nicolas-slonimsky-and-the-arduino-part-1/ Slonimsky patterns]] <<link>>
-----_ [[https://en.wikipedia.org/wiki/Schillinger_system Schillinger system]] <<link>>
-----_ [[https://en.wikipedia.org/wiki/Tintinnabuli Tintinnabuli]] <<link>>
-----_ [[http://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf Euclidean rhythm]] <<link>>
----_ Algorithmic
-----_ Random
-----_ Noise
-----_ [[https://en.m.wikipedia.org/wiki/A*_search_algorithm Pathfinding]] <<link>>
-----_ Linear algebra
-----_ [[https://oeis.org Integer sequences]] <<link>>
-----_ Raymarching
-----_ Grammars
-----_ Chaos theory
------_ Fractals
------_ Feedback loops
------_ Pendulums
------_ Self-similarity
-----_ Rewriting systems
------_ Cellular automata
------_ L-system
-----_ [[https://theresanaiforthat.com/ AI]] <<link>>
------_ Classic
-------_ Markov chains
-------_ Monte-Carlo methods
------_ Modern
-------_ Machine learning
-------_ Multimodal LLMs
------_ Issues
-------_ Originality
-------_ Emotions
-------_ Dehumanization
-------_ Ethics
 
 --_ Data
 ---_ Structured
