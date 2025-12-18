@@ -60,14 +60,18 @@ skinparam svgLinkTarget _blank
 ******_ [[https://www.huygens-fokker.org/scala/ Scala]] <<link>>
 ******_ [[https://en.xen.wiki/w/Main_Page Xenharmonics]] <<link>>
 ******_ [[https://scaleworkshop.plainsound.org Scale workshop]] <<link>>
+
 ****_ Visual programming
 *****_ [[https://puredata.info/ Pure Data]] <<link>>
 *****_ [[https://cycling74.com/products/max Max]] <<link>>
 *****_ [[https://www.bespokesynth.com/ Bespoke]] <<link>>
 *****_ [[https://www.iannix.org/en/whatisiannix/ Iannix]] <<link>>
+*****_ [[https://www.synthoscope.com Synthoscope]] <<link>>
+
 ****_ Generative music
 *****_ [[https://opusmodus.com/ OpusModus]] <<link>>
 *****_ MIDI generators
+
 ****_ Esoteric
 *****_ [[https://dollchan.net/bytebeat/ Bytebeat]] <<link>>
 *****_ [[https://hundredrabbits.itch.io/orca Orca]] <<link>>
@@ -76,6 +80,7 @@ skinparam svgLinkTarget _blank
 ****_ [[https://csound.com/ Csound]] <<link>>
 ****_ [[https://faust.grame.fr/ Faust]] <<link>>
 ****_ [[https://supercollider.github.io/ SuperCollider]] <<link>>
+****_ [[https://www.w3.org/TR/webaudio-1.1/ WebAudio API]] <<link>>
 
 **_ Graphics
 ***_ Sketching
@@ -141,17 +146,19 @@ skinparam svgLinkTarget _blank
 ***_ [[https://github.com/topics/rhythm-game Rhythm games]] <<link>>
 
 **_ Programming
-***_ [[https://esolangs.org/wiki/Main_Page Esolangs]] <<link>>
-****_ [[https://esolangs.org/wiki/MUSYS Musys]] <<link>>
-****_ [[https://www.uiua.org Uiua]] <<link>>
-***_ Parsing
+***_ [[https://craftinginterpreters.com Crafting Interpreters]] <<link>>
 ****_ Parser grammars (PEGs)
 ****_ Recursive descent parsing
+****_ [[https://ratfactor.com/forth/the_programming_language_that_writes_itself.html Tokenizing loop]] <<link>>
 ***_ [[https://eloquentjavascript.net/12_language.html New languages]] <<link>>
 ****_ Generic
 ****_ Time critical
+*****_ [[https://uzu.lurk.org/ Uzulangs]] <<link>>
 *****_ Ziffers
-*****_ TidalCycles
+****_ [[https://esolangs.org/wiki/Main_Page Esolangs]] <<link>>
+*****_ [[https://esolangs.org/wiki/MUSYS Musys]] <<link>>
+*****_ [[https://www.uiua.org Uiua]] <<link>>
+*****_ [[https://amiika.github.io/yield/ Yield]] <<link>>
 ***_ Monkeypatching
 
 **_ Physical
